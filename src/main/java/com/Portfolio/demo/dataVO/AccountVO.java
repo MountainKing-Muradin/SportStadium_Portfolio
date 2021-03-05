@@ -1,9 +1,9 @@
 package com.Portfolio.demo.dataVO;
 
-public class AccountVO {
+import java.util.UUID;
 
+public class AccountVO {
 	
-	
-	
+		UUID conId;
 
 }
